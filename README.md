@@ -1,18 +1,29 @@
 # Vrinda_Store_Sales
 
 **Key KPIs (Key Performance Indicators)**
+
 Total Revenue: ₹21,176,377
+
 Total Orders: 28,471
+
 Average Order Value (AOV): ₹744
+
 Top Selling Category: Sets (₹10.5M+)
+
 Top Sales Channel: Amazon
+
 Highest Contributing Gender: Women (≈64% revenue)
 
 **Business Objectives**
+
 Increase overall sales revenue and order volume
+
 Identify top-performing products and categories
+
 Optimize sales channels (Amazon, Myntra, Flipkart, etc.)
+
 Understand customer demographics (age, gender)
+
 Improve customer targeting and marketing strategy
 
 **Key Findings / Insights**
