@@ -16,6 +16,7 @@ Understand customer demographics (age, gender)
 Improve customer targeting and marketing strategy
 
 **Key Findings / Insights**
+
 Sales & Product Insights:
 Sets category dominates sales, contributing the highest revenue
 Kurtas and Western Dresses are also strong performers
